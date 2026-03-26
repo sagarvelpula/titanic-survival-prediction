@@ -14,7 +14,7 @@ st.subheader("Predict survival based on passenger details")
 st.image("https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg")
 
 # Load dataset
-df = pd.read_csv("Titanic-Dataset.csv")
+df = pd.read_csv("../data/Titanic-Dataset.csv")
 
 # Features
 features = ['Pclass', 'Sex', 'Age']
