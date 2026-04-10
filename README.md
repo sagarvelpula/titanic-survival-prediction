@@ -1,4 +1,4 @@
-<img width="1920" height="868" alt="Screenshot 2026-04-06 192718" src="https://github.com/user-attachments/assets/3a43d8af-f90c-4f90-97c8-d58e20119048" /># Titanic Survival Prediction (CLI + Streamlit App)
+# Titanic Survival Prediction (CLI + Streamlit App)
 
 This project predicts whether a passenger survived the Titanic disaster using machine learning.
 It includes both a **Command-Line Interface (CLI)** version and an **interactive Streamlit web application**.
